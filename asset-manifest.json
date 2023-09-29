@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/graycell_tasks/static/css/main.e6c13ad2.css",
+    "main.js": "/graycell_tasks/static/js/main.b7557819.js",
+    "static/js/787.d3befce1.chunk.js": "/graycell_tasks/static/js/787.d3befce1.chunk.js",
+    "index.html": "/graycell_tasks/index.html",
+    "main.e6c13ad2.css.map": "/graycell_tasks/static/css/main.e6c13ad2.css.map",
+    "main.b7557819.js.map": "/graycell_tasks/static/js/main.b7557819.js.map",
+    "787.d3befce1.chunk.js.map": "/graycell_tasks/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b7557819.js"
+  ]
+}
